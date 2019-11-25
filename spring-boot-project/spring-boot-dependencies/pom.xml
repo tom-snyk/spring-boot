@@ -77,7 +77,7 @@
 		<httpasyncclient.version>4.1.4</httpasyncclient.version>
 		<httpclient.version>4.5.8</httpclient.version>
 		<httpcore.version>4.4.11</httpcore.version>
-		<infinispan.version>9.4.13.Final</infinispan.version>
+		<infinispan.version>10.0.0.Final</infinispan.version>
 		<influxdb-java.version>2.15</influxdb-java.version>
 		<jackson.version>2.9.8</jackson.version>
 		<jakarta-activation.version>1.2.1</jakarta-activation.version>
@@ -161,7 +161,7 @@
 		<pooled-jms.version>1.0.4</pooled-jms.version>
 		<postgresql.version>42.2.5</postgresql.version>
 		<prometheus-pushgateway.version>0.6.0</prometheus-pushgateway.version>
-		<quartz.version>2.3.1</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<querydsl.version>4.2.1</querydsl.version>
 		<rabbit-amqp-client.version>5.7.0</rabbit-amqp-client.version>
 		<reactor-bom.version>Dysprosium-M1</reactor-bom.version>
