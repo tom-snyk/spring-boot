@@ -69,13 +69,13 @@
 		<hamcrest.version>1.3</hamcrest.version>
 		<hazelcast.version>3.12</hazelcast.version>
 		<hazelcast-hibernate5.version>1.3.2</hazelcast-hibernate5.version>
-		<hibernate.version>5.4.2.Final</hibernate.version>
-		<hibernate-validator.version>6.0.16.Final</hibernate-validator.version>
+		<hibernate.version>5.4.15.Final</hibernate.version>
+		<hibernate-validator.version>6.0.19.Final</hibernate-validator.version>
 		<hikaricp.version>3.3.1</hikaricp.version>
 		<hsqldb.version>2.4.1</hsqldb.version>
-		<htmlunit.version>2.35.0</htmlunit.version>
+		<htmlunit.version>2.41.0</htmlunit.version>
 		<httpasyncclient.version>4.1.4</httpasyncclient.version>
-		<httpclient.version>4.5.8</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 		<httpcore.version>4.4.11</httpcore.version>
 		<infinispan.version>9.4.13.Final</infinispan.version>
 		<influxdb-java.version>2.15</influxdb-java.version>
@@ -161,18 +161,18 @@
 		<pooled-jms.version>1.0.4</pooled-jms.version>
 		<postgresql.version>42.2.5</postgresql.version>
 		<prometheus-pushgateway.version>0.6.0</prometheus-pushgateway.version>
-		<quartz.version>2.3.1</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<querydsl.version>4.2.1</querydsl.version>
 		<rabbit-amqp-client.version>5.7.0</rabbit-amqp-client.version>
 		<reactor-bom.version>Dysprosium-M1</reactor-bom.version>
-		<rest-assured.version>3.3.0</rest-assured.version>
+		<rest-assured.version>4.4.0</rest-assured.version>
 		<reactive-streams.version>1.0.2</reactive-streams.version>
 		<rsocket.version>0.12.2-RC2</rsocket.version>
 		<rxjava.version>1.3.8</rxjava.version>
 		<rxjava-adapter.version>1.2.1</rxjava-adapter.version>
 		<rxjava2.version>2.2.8</rxjava2.version>
 		<selenium.version>3.141.59</selenium.version>
-		<selenium-htmlunit.version>2.35.1</selenium-htmlunit.version>
+		<selenium-htmlunit.version>2.41.0</selenium-htmlunit.version>
 		<sendgrid.version>4.3.0</sendgrid.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<slf4j.version>1.7.26</slf4j.version>
@@ -181,7 +181,7 @@
 		<!-- deprecated in favor of "spring-framework.version" -->
 		<spring.version>5.2.0.M2</spring.version>
 		<spring-amqp.version>2.2.0.M2</spring-amqp.version>
-		<spring-batch.version>4.2.0.M2</spring-batch.version>
+		<spring-batch.version>4.2.3.RELEASE</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.5.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Moore-M4</spring-data-releasetrain.version>
 		<spring-framework.version>${spring.version}</spring-framework.version>
@@ -204,9 +204,9 @@
 		<thymeleaf-layout-dialect.version>2.4.1</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>9.0.19</tomcat.version>
+		<tomcat.version>9.0.43</tomcat.version>
 		<unboundid-ldapsdk.version>4.0.10</unboundid-ldapsdk.version>
-		<undertow.version>2.0.20.Final</undertow.version>
+		<undertow.version>2.1.0.Final</undertow.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
 		<webjars-locator-core.version>0.37</webjars-locator-core.version>
 		<wsdl4j.version>1.6.3</wsdl4j.version>
